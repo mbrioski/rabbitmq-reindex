@@ -1,0 +1,13 @@
+{
+    "name": "ridesoft/rabbitmq-reindex",
+    "description": "Magento2 module to create reindex job into rabbitmq and execute them with a consumer",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maurizio Brioschi",
+            "email": "maurizio.brioschi@gmaoil.com"
+        }
+    ],
+    "require": {}
+}
